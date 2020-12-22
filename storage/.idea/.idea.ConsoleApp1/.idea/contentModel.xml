@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/resharper-host/local/Transient/Rider/v203/SolutionCaches/_ConsoleApp1.-888650114.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="ConsoleApp1.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="storage" t="IncludeRecursive">
+        <e p="DVD.cs" t="Include" />
+        <e p="Flash.cs" t="Include" />
+        <e p="HDD.cs" t="Include" />
+        <e p="OneSideDVD.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Storage.cs" t="Include" />
+        <e p="TwoSideDVD.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="storage.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="storage.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
